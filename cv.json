@@ -1,0 +1,28 @@
+{
+    "nombre": "Marc Lozano Martinez",
+    "edad": 25,
+    "contacto": {
+        "telefono": "123456789",
+        "email": "correo@gmail.com"
+    },
+    "experiencia_laboral": [
+        {
+            "nombre": "experiencia1",
+            "tiempo": "1 año"
+        },
+        {
+            "nombre": "experiencia2",
+            "tiempo": "1 año"
+        },
+        {
+            "nombre": "experiencia2",
+            "tiempo": "1 año"
+        }
+    ],
+    "formacion_academica": {
+        "universitaria": {
+            "nombre": "USJ",
+            "titulo": "Doble grado"
+        }
+    }
+}
