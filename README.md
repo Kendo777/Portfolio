@@ -1,6 +1,7 @@
 # portfolio
 
-``` sequenceDiagram
+```mermaid
+ sequenceDiagram
     Alice ->> Bob: Hello Bob, how are you?
     Bob-->>John: How about you John?
     Bob--x Alice: I am good thanks!
